@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "locations": "multitext",
+    "expired": "checkbox",
+    "dead": "checkbox",
+    "members": "multitext",
+    "families": "multitext",
+    "races": "multitext",
+    "Familles": "multitext",
+    "Lieux": "multitext",
+    "Espèces": "multitext",
+    "Membres": "multitext",
+    "Creator": "text"
+  }
+}

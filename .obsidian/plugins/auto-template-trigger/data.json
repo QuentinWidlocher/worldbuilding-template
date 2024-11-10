@@ -1,0 +1,32 @@
+{
+  "folderSpecificTemplates": [
+    {
+      "folderPath": "World/Creatures",
+      "templateName": "New Creature"
+    },
+    {
+      "folderPath": "World/Species",
+      "templateName": "New Species"
+    },
+    {
+      "folderPath": "World/Locations",
+      "templateName": "New Location"
+    },
+    {
+      "folderPath": "World/Organizations",
+      "templateName": "New Organization"
+    },
+    {
+      "folderPath": "World/Characters",
+      "templateName": "New Character"
+    },
+    {
+      "folderPath": "Game/Objects",
+      "templateName": "New Object"
+    },
+    {
+      "folderPath": "Time/Events",
+      "templateName": "New Event"
+    }
+  ]
+}

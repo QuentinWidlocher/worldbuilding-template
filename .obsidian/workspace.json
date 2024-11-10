@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "4e17ea17cbed8070",
+    "type": "split",
+    "children": [
+      {
+        "id": "795571d8839d06ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43b11b1a94cea562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_templates/New Species.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "New Species"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39f74a5b14a10362",
+    "type": "split",
+    "children": [
+      {
+        "id": "20b20f03d85035bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c1dce9bd693aa34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "704d882b31f719c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3dcfdd24b2a7980f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a03fec41241084f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "07191925fbcc5b87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de1b77ab678cb92d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Draft.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Draft"
+            }
+          },
+          {
+            "id": "6ddcf956a0041b95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Draft.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Draft"
+            }
+          },
+          {
+            "id": "23bb0e1a4020a5d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "09c710275c0997a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_templates/New Species.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of New Species"
+            }
+          },
+          {
+            "id": "7b3a3ee99df3df08",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a2ae7ee1bc0b1a4c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 486.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "hide-folders:Show hidden folders": false
+    }
+  },
+  "active": "43b11b1a94cea562",
+  "lastOpenFiles": [
+    "_templates/New Character.md",
+    "_templates/New Creature.md",
+    "_templates/New Location.md",
+    "_templates/New Event.md",
+    "Time/Events",
+    "Time",
+    "_templates/New Object.md",
+    "_templates/New Species.md",
+    "Draft.md",
+    "World/Locations/Continent 1/Continent 1.md",
+    "World/Locations/Continent 1/Country 1.md",
+    "World/Locations/Continent 2.md",
+    "World/Creatures/Untitled.md",
+    "_templates/New Organization.md",
+    "Game",
+    "Game/Objects",
+    "_templates/Untitled.md",
+    "World/Locations/Continent 1",
+    "Monde/Lieux/Continent 2/Continent 2.md",
+    "Monde/Lieux/Lieux.md",
+    "Monde/Lieux/Continent 2/Pays.md",
+    "Monde/Lieux/Continent 2",
+    "Monde/Créatures/Créature 2.md",
+    "Monde/Créatures/Créature 1.md",
+    "Monde/Créatures/Chat.md",
+    "Monde/Créatures/Chien.md",
+    "Monde/Espèces/Untitled.md",
+    "Monde/Personnages/Untitled.md",
+    "Monde/Lieux/Artéfact-monde Huit.md",
+    "World/Species",
+    "World/Creatures",
+    "Monde/Lieux/Artefact-Monde-Huit-Parchemin.png",
+    "World/Characters",
+    "Monde/Lieux/Lieu 2.md",
+    "Monde/Lieux/Continent/Continent.md",
+    "Monde/Lieux/Continent/Pays 1/Pays 1.md",
+    "Monde/Lieux/Continent/Pays 1/Ville 1.1"
+  ]
+}

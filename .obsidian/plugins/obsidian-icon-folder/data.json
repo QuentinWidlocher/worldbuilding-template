@@ -1,0 +1,75 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiMapPin",
+      "LiCake",
+      "LiHourglass",
+      "LiUserRound",
+      "LiUsersRound"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": true,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "Draft.md": "LiFileEdit",
+  "_templates/New Character.md": {
+    "iconName": "LiUserRound"
+  },
+  "_templates/New Location.md": {
+    "iconName": "LiMapPin"
+  },
+  "_templates/New Object.md": {
+    "iconName": "LiBox"
+  },
+  "_templates/New Creature.md": {
+    "iconName": "LiSquirrel"
+  },
+  "_templates/New Species.md": {
+    "iconName": "LiUsersRound"
+  },
+  "_templates/New Organization.md": {
+    "iconName": "LiNetwork"
+  },
+  "Game": "LiBookText",
+  "Game/Objects": "LiBox",
+  "World": "LiMountain",
+  "World/Creatures": "LiSquirrel",
+  "World/Species": "LiUsersRound",
+  "World/Locations": "LiMapPin",
+  "World/Locations/Continent 1": "LiMapPin",
+  "World/Locations/Continent 1/Continent 1.md": {
+    "iconName": "LiMapPin"
+  },
+  "World/Organizations": "LiNetwork",
+  "World/Characters": "LiUserRound",
+  "World/Locations/Continent 1/Country 1.md": {
+    "iconName": "LiMapPin"
+  },
+  "Time": "LiHourglass",
+  "Time/Events": "LiCake",
+  "_templates/New Event.md": {
+    "iconName": "LiCake"
+  }
+}
